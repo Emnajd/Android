@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed54f206-e90a-40b9-b733-b7e447094721" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/res/layout/fragment_chinese.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/FastfoodClass.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/FastFoodFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ItalianAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-857" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ChineseClass.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ChineseFragment.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ContinentalAdapter.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/TraditionalFoodAdapter.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/TraditionalfoodClass.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="homepc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="homepc" type="462c0819:PsiDirectoryNode" />
+              <item name="restauranteatitapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Food-Ordering-App-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Food-Ordering-App-master" type="462c0819:PsiDirectoryNode" />
+              <item name="RestaurantEatItApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed54f206-e90a-40b9-b733-b7e447094721" name="Default Changelist" comment="" />
+      <created>1590955085547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590955085547</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980832" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/test/java/com/example/homepc/restauranteatitapp/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/FastFoodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ItalianClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ItalianFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/LoginOptionsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/OrderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/OrderClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/OrderPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/SeaFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/Splash.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/TraditionalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/Submit_Order.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/SeaClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ContinentalClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ContinentalFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ChineseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/res/layout/dialogdesign.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/res/layout/app_bar_main.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/res/layout/fragment_chinese.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/FastfoodClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/FastFoodFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ItalianAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ChineseClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ChineseFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/ContinentalAdapter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/TraditionalFoodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestaurantEatItApp/app/src/main/java/com/example/homepc/restauranteatitapp/TraditionalfoodClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
